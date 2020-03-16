@@ -1,0 +1,3 @@
+Kevin,kevin,17,Femenino
+Jose,Josesito,57,Masculino
+zamorak,Zamorak Shancez,85,Masculino

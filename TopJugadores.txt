@@ -1,0 +1,5 @@
+Kevin,-32,70
+Jose,-66,87
+Juanito,-60,84
+Kevin,-92,100
+Jose,-70,89
